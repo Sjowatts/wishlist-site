@@ -102,7 +102,7 @@
     "category": "books"
   },
   {
-    "name": "Riding leggings",
+    "name": "Riding leggings - Size Medium/12 - £49.99 - Not Mocha, Dark Green, Red, White",
     "image": "assets/ridingleggings.jpg",
     "link": "https://equinesplendour.co.uk/products/forest-sensation-winter-full-seat-riding-leggings-water-resistant",
     "category": "clothes"
@@ -114,9 +114,9 @@
     "category": "clothes"
   },
   {
-    "name": "Crocs",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
+    "name": "Classic Clog-Crocs - Pink Milk Colour - UK8",
+    "image": "assets/crocs.jpg",
+    "link": "https://www.crocs.co.uk/p/classic-clog/10001.html?cgid=women-footwear&cid=6ZW",
     "category": "clothes"
   },
   {
@@ -157,18 +157,6 @@
   },
   {
     "name": "Wind Storm game",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "gaming"
-  },
-  {
-    "name": "Gaming monitor ~35 inch",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "gaming"
-  },
-  {
-    "name": "Lap tray for laptop",
     "image": "assets/placeholder.jpg",
     "link": "#",
     "category": "gaming"
@@ -234,18 +222,6 @@
     "category": "house"
   },
   {
-    "name": "Cool desk",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "house"
-  },
-  {
-    "name": "Cool spinny chair",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "house"
-  },
-  {
     "name": "Book shelf stops",
     "image": "assets/placeholder.jpg",
     "link": "#",
@@ -259,12 +235,6 @@
   },
   {
     "name": "Paints \u2013 acrylic/oil/gouache",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "art"
-  },
-  {
-    "name": "Plastic palettes",
     "image": "assets/placeholder.jpg",
     "link": "#",
     "category": "art"
@@ -312,18 +282,12 @@
     "category": "animals"
   },
   {
-    "name": "Riding helmet \u2013 X-Air Nova (2030)",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "animals"
-  },
-    {
     "name": "Prime Air-Tec All Purpose Saddle Pad - Size Large - £34.99",
     "image": "assets/bluesaddlepad.jpg",
     "link": "https://www.weatherbeeta.co.uk/weatherbeeta-prime-air-tec-all-purpose-saddle-pad-1028249000-1f1326",
     "category": "animals"
   },
-      {
+  {
     "name": "Prime Air-Tec All Purpose Saddle Pad - Size Large - £34.99",
     "image": "assets/pinksaddlepad.jpg",
     "link": "https://www.weatherbeeta.co.uk/weatherbeeta-prime-air-tec-all-purpose-saddle-pad-1028249000-ff4adc",
