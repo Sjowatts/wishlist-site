@@ -42,7 +42,7 @@
     "category": "drinks"
   },
   {
-    "name": "Blue shoes",
+    "name": "Blue shoes - UK-8",
     "image": "assets/blueshoe.jpg",
     "link": "https://www.adidas.co.uk/handball-spezial/JS3866.html?cm_mmc=AdieSEM_PLA_Google-_-PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG-_--_-&cm_mmca1=UK&cm_mmca2=&21143022877&ds_agid=&af_reengagement_window=30d&is_retargeting=true&pid=googleadwords_temp&c=PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG&af_channel=Shopping_Search&adicl_gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=21139533560&gbraid=0AAAAADwBzxrXE4RrT8J6lT5bI5G5hjRvY&gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE",
     "category": "shoes"
@@ -315,6 +315,18 @@
     "name": "Riding helmet \u2013 X-Air Nova (2030)",
     "image": "assets/placeholder.jpg",
     "link": "#",
+    "category": "animals"
+  },
+    {
+    "name": "Prime Air-Tec All Purpose Saddle Pad - Size Large - £34.99",
+    "image": "assets/bluesaddlepad.jpg",
+    "link": "https://www.weatherbeeta.co.uk/weatherbeeta-prime-air-tec-all-purpose-saddle-pad-1028249000-1f1326",
+    "category": "animals"
+  },
+      {
+    "name": "Prime Air-Tec All Purpose Saddle Pad - Size Large - £34.99",
+    "image": "assets/pinksaddlepad.jpg",
+    "link": "https://www.weatherbeeta.co.uk/weatherbeeta-prime-air-tec-all-purpose-saddle-pad-1028249000-ff4adc",
     "category": "animals"
   },
   {
