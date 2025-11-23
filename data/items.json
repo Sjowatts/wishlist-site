@@ -2,16 +2,25 @@
   {
     "name": "Pink Shoulder Bag",
     "image": "assets/pink_bag.jpg",
-    "link": "https://example.com/pink-bag"
+    "link": "https://example.com/pink-bag",
+    "category": "clothing"
   },
   {
     "name": "Silver Necklace",
     "image": "assets/necklace.jpg",
-    "link": "https://example.com/silver-necklace"
+    "link": "https://example.com/silver-necklace",
+    "category": "jewellery"
   },
   {
     "name": "Dior Lip Oil",
     "image": "assets/dior_lip_oil.jpg",
-    "link": "https://example.com/dior-lip-oil"
+    "link": "https://example.com/dior-lip-oil",
+    "category": "beauty"
+  },
+  {
+    "name": "Apple AirPods",
+    "image": "assets/airpods.jpg",
+    "link": "https://example.com/airpods",
+    "category": "tech"
   }
 ]
