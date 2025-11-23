@@ -114,15 +114,9 @@
     "category": "books"
   },
   {
-    "name": "Bonds of Hercules - special editions",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "books"
-  },
-  {
     "name": "Riding leggings",
     "image": "assets/placeholder.jpg",
-    "link": "#",
+    "link": "https://equinesplendour.co.uk/products/forest-sensation-winter-full-seat-riding-leggings-water-resistant",
     "category": "clothes"
   },
   {
@@ -157,12 +151,6 @@
   },
   {
     "name": "Trench coat",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "clothes"
-  },
-  {
-    "name": "Lingerie",
     "image": "assets/placeholder.jpg",
     "link": "#",
     "category": "clothes"
