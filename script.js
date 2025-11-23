@@ -1,21 +1,26 @@
 fetch('data/items.json')
-  .then(response => response.json())
-  .then(items => renderItems(items))
-  .catch(err => console.error('JSON load error:', err));
+  .then(r=>r.json())
+  .then(items=>{
+    window.allItems=items;
+    render(items);
+  });
 
-function renderItems(items) {
-  const gallery = document.getElementById('gallery');
-  gallery.innerHTML = '';
-
-  items.forEach(item => {
-    const card = document.createElement('div');
-    card.className = 'item-card';
-
-    card.innerHTML = `
-      <img src="${item.image}" alt="${item.name}">
-      <a href="${item.link}" target="_blank">${item.name}</a>
-    `;
-
-    gallery.appendChild(card);
+function render(items){
+  const g=document.getElementById('gallery');
+  g.innerHTML='';
+  items.forEach(i=>{
+    g.innerHTML+=`
+    <div class="item-card">
+      <img src="${i.image}" alt="${i.name}">
+      <a href="${i.link}" target="_blank">${i.name}</a>
+    </div>`;
   });
 }
+
+document.querySelectorAll('nav button').forEach(btn=>{
+  btn.onclick=()=>{
+    const f=btn.dataset.filter;
+    if(f==="all") render(allItems);
+    else render(allItems.filter(i=>i.category===f));
+  };
+});

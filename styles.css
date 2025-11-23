@@ -1,85 +1,9 @@
-/* Colour scheme: Deep purple + soft pink accents */
-.nav {
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-  padding: 15px;
-  background: var(--card);
-  border-bottom: 2px solid var(--accent);
-}
 
-.filter-btn {
-  background: var(--accent);
-  border: none;
-  padding: 10px 18px;
-  border-radius: 8px;
-  font-weight: bold;
-  cursor: pointer;
-  color: var(--bg);
-  transition: transform .15s, opacity .2s;
-}
-
-.filter-btn:hover {
-  transform: scale(1.08);
-  opacity: 0.85;
-}
-
-:root {
-  --bg: #0f0b1f;
-  --card: #1c1433;
-  --accent: #ff7bd4;
-  --text: #ffffff;
-  --shadow: rgba(0,0,0,0.5);
-}
-
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-}
-
-header {
-  text-align: center;
-  padding: 20px 0;
-  background: var(--card);
-  border-bottom: 2px solid var(--accent);
-}
-
-h1 { margin: 0; }
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 20px;
-  padding: 30px;
-  max-width: 1400px;
-  margin: auto;
-}
-
-.item-card {
-  background: var(--card);
-  padding: 12px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px var(--shadow);
-  transition: transform .15s;
-}
-
-.item-card:hover {
-  transform: scale(1.03);
-}
-
-.item-card img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-.item-card a {
-  text-decoration: none;
-  color: var(--accent);
-  display: block;
-  margin-top: 10px;
-  font-weight: bold;
-  font-size: 1.1rem;
-  text-align: center;
-}
+body { margin:0; font-family:Arial; background:#0f0b1f; color:white; }
+header { background:#1c1433; padding:20px; text-align:center; border-bottom:2px solid #ff7bd4; }
+.nav { display:flex; gap:10px; justify-content:center; padding:15px; background:#1c1433; }
+.nav button { background:#ff7bd4; border:none; padding:10px 15px; border-radius:8px; cursor:pointer; }
+.gallery { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:20px; padding:20px; }
+.item-card { background:#1c1433; padding:10px; border-radius:12px; }
+.item-card img { width:100%; border-radius:8px; }
+.item-card a { color:#ff7bd4; text-decoration:none; display:block; margin-top:8px; }
