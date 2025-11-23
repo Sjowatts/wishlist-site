@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pink Shoulder Bag",
+    "image": "assets/pink_bag.jpg",
+    "link": "https://example.com/pink-bag"
+  },
+  {
+    "name": "Silver Necklace",
+    "image": "assets/necklace.jpg",
+    "link": "https://example.com/silver-necklace"
+  },
+  {
+    "name": "Dior Lip Oil",
+    "image": "assets/dior_lip_oil.jpg",
+    "link": "https://example.com/dior-lip-oil"
+  }
+]
