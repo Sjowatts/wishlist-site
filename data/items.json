@@ -108,21 +108,9 @@
     "category": "clothes"
   },
   {
-    "name": "Sillycity T-shirt",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "clothes"
-  },
-  {
     "name": "Classic Clog-Crocs - Pink Milk Colour - UK8",
     "image": "assets/crocs.jpg",
     "link": "https://www.crocs.co.uk/p/classic-clog/10001.html?cgid=women-footwear&cid=6ZW",
-    "category": "clothes"
-  },
-  {
-    "name": "UGG slippers \u2018since 1974\u2019",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
     "category": "clothes"
   },
   {
@@ -142,6 +130,12 @@
     "image": "assets/placeholder.jpg",
     "link": "#",
     "category": "clothes"
+  },
+    {
+    "name": "Emma Khaki Green Tote Bag",
+    "image": "assets/placeholder.jpg",
+    "link": "https://www.oliverbonas.com/accessories/emma-khaki-green-tote-bag-384906",
+    "category": "accessories"
   },
   {
     "name": "Red Dead 1 - PC",
