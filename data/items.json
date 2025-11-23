@@ -1,1 +1,362 @@
-[{"name": "Pink Shoulder Bag", "image": "assets/pink_bag.jpg", "link": "https://example.com", "category": "clothing"}]
+[
+  {
+    "name": "Hozier",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Ghost",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Noah Kahan",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Harry Styles",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Taylor Swift",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "concerts"
+  },
+  {
+    "name": "Chocolate meringue dessert - M&S",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "desserts"
+  },
+  {
+    "name": "White hot chocolate - Hotel Chocolat",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "drinks"
+  },
+  {
+    "name": "Pink shoes - New Look",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "shoes"
+  },
+  {
+    "name": "Blue shoes",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "shoes"
+  },
+  {
+    "name": "Marshmallow Fireside candle - White Barn",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "candles"
+  },
+  {
+    "name": "Onyx Storm (softback)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Crescent City series (hardback)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Crescent City special edition",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Throne of Glass (original covers)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Cricut Explore 3 Bundle",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "New ACOTAR (coming soon)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "New Fourth Wing (2027)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Cruel Shifterverse series",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Bonds of Hercules - special editions",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "books"
+  },
+  {
+    "name": "Riding leggings",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Sillycity T\u2011shirt",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Crocs",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "UGG slippers \u2018since 1974\u2019",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Fun socks",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Fluffy socks",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Trench coat",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Lingerie",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "clothes"
+  },
+  {
+    "name": "Red Dead 1 - PC",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "gaming"
+  },
+  {
+    "name": "Star Stable coins",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "gaming"
+  },
+  {
+    "name": "Wind Storm game",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "gaming"
+  },
+  {
+    "name": "Gaming monitor ~35 inch",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "gaming"
+  },
+  {
+    "name": "Lap tray for laptop",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "gaming"
+  },
+  {
+    "name": "Vanilla or fruity body wash",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "bath"
+  },
+  {
+    "name": "Hair dryer",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "bath"
+  },
+  {
+    "name": "Oral\u2011B electric toothbrush",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "bath"
+  },
+  {
+    "name": "White Company towel dressing gown",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "bath"
+  },
+  {
+    "name": "Bath bombs - Lush",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "bath"
+  },
+  {
+    "name": "Plant pots - mixed sizes",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "plants"
+  },
+  {
+    "name": "Vase",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Candle",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Shanderpus figurine",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Nice plates",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Cool desk",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Cool spinny chair",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "Book shelf stops",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "house"
+  },
+  {
+    "name": "ETSY print (average size)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "art"
+  },
+  {
+    "name": "Paints \u2013 acrylic/oil/gouache",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "art"
+  },
+  {
+    "name": "Plastic palettes",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "art"
+  },
+  {
+    "name": "smallwhitemonster art",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "art"
+  },
+  {
+    "name": "Engraved knives set",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "baking"
+  },
+  {
+    "name": "Magnetic knife rack",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "baking"
+  },
+  {
+    "name": "Waffle maker",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "baking"
+  },
+  {
+    "name": "HeKnitt frog",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "teddies"
+  },
+  {
+    "name": "Horse",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "animals"
+  },
+  {
+    "name": "Cat",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "animals"
+  },
+  {
+    "name": "Riding helmet \u2013 X\u2011Air Nova (2030)",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "animals"
+  },
+  {
+    "name": "Salvador Dali Drooping watch",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "jewelry"
+  },
+  {
+    "name": "Sterling silver ring",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "jewelry"
+  },
+  {
+    "name": "Sterling silver necklace",
+    "image": "assets/placeholder.jpg",
+    "link": "#",
+    "category": "jewelry"
+  }
+]
