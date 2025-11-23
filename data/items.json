@@ -131,10 +131,16 @@
     "link": "https://www.oliverbonas.com/accessories/emma-khaki-green-tote-bag-384906",
     "category": "accessories"
   },
-      {
+   {
     "name": "Maddie Pink Zip Around Purse - £30.00",
     "image": "assets/pinkpurse.jpg",
     "link": "https://www.oliverbonas.com/accessories/maddie-pink-zip-around-purse-391865",
+    "category": "accessories"
+  },
+     {
+    "name": "Sun Goddess Mini Pouch - £26.00",
+    "image": "assets/sun.jpg",
+    "link": "https://www.elizabethscarlett.com/collections/pouches-main/products/sun-goddess-mini-pouch",
     "category": "accessories"
   },
       {
@@ -222,7 +228,7 @@
     "category": "house"
   },
   {
-    "name": "Shanderpus figurine",
+    "name": "Shanderpus Figurine or Painting",
     "image": "assets/puss.jpg",
     "link": "https://www.mysweetadelineart.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnmD1beL34mcaRwcQZrcZ--hgqiO9_1sIQXnitrZeerojYOaquv-gGnMOowa8_aem_GhP7-0pRKnJaNYT1VyQNNg&page=2",
     "category": "house"
