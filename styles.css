@@ -1,25 +1,4 @@
-:root {
-  --bg: #0f0b1f;
-  --card: #1c1433;
-  --accent: #ff7bd4;
-  --text: #ffffff;
-  --shadow: rgba(0,0,0,0.5);
-}
-
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-}
-
-header {
-  text-align: center;
-  padding: 20px 0;
-  background: var(--card);
-  border-bottom: 2px solid var(--accent);
-}
-
+/* Colour scheme: Deep purple + soft pink accents */
 .nav {
   display: flex;
   justify-content: center;
@@ -45,6 +24,30 @@ header {
   opacity: 0.85;
 }
 
+:root {
+  --bg: #0f0b1f;
+  --card: #1c1433;
+  --accent: #ff7bd4;
+  --text: #ffffff;
+  --shadow: rgba(0,0,0,0.5);
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+  background: var(--card);
+  border-bottom: 2px solid var(--accent);
+}
+
+h1 { margin: 0; }
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -59,12 +62,11 @@ header {
   padding: 12px;
   border-radius: 12px;
   box-shadow: 0 4px 12px var(--shadow);
-  transition: transform .15s, opacity .2s;
+  transition: transform .15s;
 }
 
 .item-card:hover {
   transform: scale(1.03);
-  opacity: 0.9;
 }
 
 .item-card img {

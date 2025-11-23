@@ -1,11 +1,6 @@
-let allItems = [];
-
 fetch('data/items.json')
   .then(response => response.json())
-  .then(items => {
-    allItems = items;
-    renderItems(allItems);
-  })
+  .then(items => renderItems(items))
   .catch(err => console.error('JSON load error:', err));
 
 function renderItems(items) {
@@ -21,22 +16,6 @@ function renderItems(items) {
       <a href="${item.link}" target="_blank">${item.name}</a>
     `;
 
-    card.style.opacity = 0;
     gallery.appendChild(card);
-
-    setTimeout(() => { card.style.opacity = 1; }, 50);
   });
 }
-
-document.querySelectorAll('.filter-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const filter = btn.dataset.filter;
-
-    if (filter === 'all') {
-      renderItems(allItems);
-    } else {
-      const filtered = allItems.filter(item => item.category === filter);
-      renderItems(filtered);
-    }
-  });
-});
