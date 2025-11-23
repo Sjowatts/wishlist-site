@@ -36,12 +36,6 @@
     "category": "concerts"
   },
   {
-    "name": "Chocolate meringue dessert - M&S",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
-    "category": "desserts"
-  },
-  {
     "name": "White hot chocolate - Hotel Chocolat",
     "image": "assets/placeholder.jpg",
     "link": "#",
@@ -49,8 +43,8 @@
   },
   {
     "name": "Blue shoes",
-    "image": "assets/placeholder.jpg",
-    "link": "#",
+    "image": "assets/blueshoe.jpg",
+    "link": "https://www.adidas.co.uk/handball-spezial/JS3866.html?cm_mmc=AdieSEM_PLA_Google-_-PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG-_--_-&cm_mmca1=UK&cm_mmca2=&21143022877&ds_agid=&af_reengagement_window=30d&is_retargeting=true&pid=googleadwords_temp&c=PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG&af_channel=Shopping_Search&adicl_gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=21139533560&gbraid=0AAAAADwBzxrXE4RrT8J6lT5bI5G5hjRvY&gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE",
     "category": "shoes"
   },
   {
