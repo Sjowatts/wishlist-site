@@ -36,12 +36,6 @@
     "category": "concerts"
   },
   {
-    "name": "Peppermint-White Hot Chocolate Sachets – Limited Edition - £14.95",
-    "image": "assets/whitehotchoco.jpg",
-    "link": "https://www.hotelchocolat.com/uk/peppermint-white-hot-chocolate.html?cgid=hot-chocolate",
-    "category": "drinks"
-  },
-  {
     "name": "Blue shoes - UK-8",
     "image": "assets/blueshoe.jpg",
     "link": "https://www.adidas.co.uk/handball-spezial/JS3866.html?cm_mmc=AdieSEM_PLA_Google-_-PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG-_--_-&cm_mmca1=UK&cm_mmca2=&21143022877&ds_agid=&af_reengagement_window=30d&is_retargeting=true&pid=googleadwords_temp&c=PMAX-UK-NonBranded-G-Categories-High+Stock-CPQV-TEST-PSPMG&af_channel=Shopping_Search&adicl_gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=21139533560&gbraid=0AAAAADwBzxrXE4RrT8J6lT5bI5G5hjRvY&gclid=CjwKCAiA_orJBhBNEiwABkdmjDgcnMdoGnBYn8AZxonYCWC_VBpPCUvBEXf-ZAWx44P4SBwz35qnzRoCaucQAvD_BwE",
@@ -125,35 +119,11 @@
     "link": "#",
     "category": "clothes"
   },
-    {
-    "name": "Emma Khaki Green Tote Bag - £65.00",
-    "image": "assets/emmakhakigreentotebag.jpg",
-    "link": "https://www.oliverbonas.com/accessories/emma-khaki-green-tote-bag-384906",
-    "category": "accessories"
-  },
-   {
-    "name": "Maddie Pink Zip Around Purse - £30.00",
-    "image": "assets/pinkpurse.jpg",
-    "link": "https://www.oliverbonas.com/accessories/maddie-pink-zip-around-purse-391865",
-    "category": "accessories"
-  },
      {
     "name": "Sun Goddess Mini Pouch - £26.00",
     "image": "assets/sun.jpg",
     "link": "https://www.elizabethscarlett.com/collections/pouches-main/products/sun-goddess-mini-pouch",
     "category": "accessories"
-  },
-      {
-    "name": "Cream Blue Sardines Ribbed Ankle Socks - £8.50",
-    "image": "assets/creamblueanklesocks.jpg",
-    "link": "https://www.oliverbonas.com/accessories/cream-blue-sardines-ribbed-ankle-socks-384777",
-    "category": "clothes"
-  },
-      {
-    "name": "Juniper Silver Mini Huggie Earrings - £19.50",
-    "image": "assets/junipersilverminihuggieearrings.jpg",
-    "link": "https://www.oliverbonas.com/jewellery/juniper-mini-silver-huggie-earrings-331713",
-    "category": "jewelry"
   },
       {
     "name": "Waterproof Exercise Sheet Lite | Dusky Pink/Pink - Large - £69.00",
